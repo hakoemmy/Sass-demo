@@ -20,6 +20,6 @@
 ### Author
 🐱‍💻**Emmanuel HAKORIMANA**🐱‍💻
 
-### LICENCE
+### License
  >**MIT**
 
