@@ -1,0 +1,27 @@
+{
+  "name": "sassdemo",
+  "version": "1.0.0",
+  "description": "Build a cool navigation with a DRY principle kept in mind using SCSS syntax",
+  "main": "index.js",
+  "scripts": {
+   "compile:sass":"node-sass main.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakoemmy/Sass-demo.git"
+  },
+  "keywords": [
+    "Sass",
+    "SCSS",
+    "DRY"
+  ],
+  "author": "Emmanuel HAKORIMANA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakoemmy/Sass-demo/issues"
+  },
+  "homepage": "https://github.com/hakoemmy/Sass-demo#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.0"
+  }
+}
