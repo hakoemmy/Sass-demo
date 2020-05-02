@@ -16,3 +16,10 @@
 - Then 🔥fire up ``` npm run compile:sass``` in terminal to compile ```main.scss``` file to ```style.css```
 - Finally, open ``` index.html``` in the browser to see the effect.
 - Happy coding! 🐱‍💻 You're now a sass developer!
+
+### Author
+🐱‍💻**Emmanuel HAKORIMANA**🐱‍💻
+
+### LICENCE
+ >**MIT**
+
